@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ## I'm a Developer and Researcher!!
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 	- Dermatology: wound healing :knife: and inflammation :man_health_worker:
 	- Plant Physiology: tomatoes :tomato: and parasitic plants :rosette:
+- ⚡ Fun fact: I collect succulent Asclepiadaceae (carrion flowers), Japanese porcelain, and good stocks/ETF
 	
 <img src="https://github.com/jql2021/jql2021/blob/main/IMG_7292.PNG" 
      align="right"
