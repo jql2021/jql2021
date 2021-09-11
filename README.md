@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ## I'm a Developer and Researcher!!
 - 🌱 I’m currently learning anything
-- 💬 Ask me about dermatology (especially wound healing and inflammation :man_health_worker:) and plant biology (especially tomatoes :tomato: & parasitic plants :rosette:) 
+- 💬 Ask me about 
+	- Dermatology (especially wound healing :knife: & inflammation :man_health_worker:) and plant biology (especially tomatoes :tomato: & parasitic plants :rosette:) 
 	
 <img src="https://github.com/jql2021/jql2021/blob/main/IMG_7292.PNG" 
      align="right"
