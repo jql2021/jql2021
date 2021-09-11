@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <br />
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jql2021&layout=compact)](https://github.com/jql2021/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jql2021&theme=tokyonight)
+
 ---
 
 [linkedin]: https://www.linkedin.com/in/junqi-lu/
