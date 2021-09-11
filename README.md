@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## I'm a Developer and Researcher!!
 - 🌱 I’m currently learning anything
