@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 <br />
 ---
 
-
----
 [linkedin]: https://www.linkedin.com/in/junqi-lu/
 
 
