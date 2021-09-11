@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 ---
 
-[![jql2021's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jql2021)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jql2021)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [linkedin]: https://www.linkedin.com/in/junqi-lu/
