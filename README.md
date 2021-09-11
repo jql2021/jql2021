@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning anything
 
 	
-<img src="https://github.com/jql2021/jql2021/blob/main/IMG_7292.PNG" align="right">
+<img src="https://github.com/jql2021/jql2021/blob/main/IMG_7292.PNG" 
+     align="right"
+     style="height:300px;
+	    width:auto"/>
 <br />
 ---
 
