@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 ## I'm a Developer and Researcher!!
 - 🌱 I’m currently learning anything
 
+	
+<img src="https://github.com/jql2021/jql2021/blob/main/IMG_7292.PNG" align="right">
+
+
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
