@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 <br />
 ---
 
+### Languages and Tools:
+
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jql2021)
 
 ---
