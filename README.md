@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 	- Plant Physiology: tomatoes :tomato: and parasitic plants :rosette:
 - ⚡ Fun fact: I collect succulent Asclepiadaceae (carrion flowers) and Japanese porcelain
 
-<img src="https://github.com/jql2021/jql2021/blob/main/cover.png" 
+<img src="https://github.com/junqilu/junqilu/blob/main/cover.png" 
      align="center"
      width="2000"/>
      
      
 
-<img src="https://github.com/jql2021/jql2021/blob/main/IMG_7292.PNG" 
+<img src="https://github.com/junqilu/junqilu/blob/main/IMG_7292.PNG" 
      align="right"
      style="height:300px;
 	    width:auto"/>
