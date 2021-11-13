@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ## I'm a Developer and Researcher!!
 - 🌱 I’m currently learning anything
+- 🔭 I’m currently working on integerating machine learning in pharmacological applications
 - 💬 Ask me about 
 	- Dermatology: wound healing :knife: and inflammation :man_health_worker:
 	- Plant Physiology: tomatoes :tomato: and parasitic plants :rosette:
