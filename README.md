@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/jql2021/jql2021/blob/main/cover.png" 
      align="center"
      style="height:300px;
-	    width:auto"/>
+	    width:600px"/>
 
 <img src="https://github.com/jql2021/jql2021/blob/main/IMG_7292.PNG" 
      align="right"
