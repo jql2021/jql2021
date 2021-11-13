@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 	- Dermatology: wound healing :knife: and inflammation :man_health_worker:
 	- Plant Physiology: tomatoes :tomato: and parasitic plants :rosette:
 - ⚡ Fun fact: I collect succulent Asclepiadaceae (carrion flowers) and Japanese porcelain
-	
+
+<img src="https://github.com/jql2021/jql2021/blob/main/cover.PNG" 
+     align="center"
+     style="height:300px;
+	    width:auto"/>
+
 <img src="https://github.com/jql2021/jql2021/blob/main/IMG_7292.PNG" 
      align="right"
      style="height:300px;
