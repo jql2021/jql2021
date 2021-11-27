@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 	- Dermatology: wound healing :knife: and inflammation :man_health_worker:
 	- Plant Physiology: tomatoes :tomato: and parasitic plants :rosette:
-- ⚡ Fun fact: I collect succulent Asclepiadaceae (carrion flowers) and Japanese porcelain
+- ⚡ Fun fact: I collect succulent Asclepiadaceae (carrion flowers) and porcelains worldwide
 
 <img src="https://github.com/junqilu/junqilu/blob/main/cover.png" 
      align="center"
