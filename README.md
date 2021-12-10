@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning anything
 - 🔭 I’m currently working on integerating machine learning in pharmacological applications
 - 💬 Ask me about 
-	- Dermatology: wound healing :knife: and inflammation :man_health_worker:
-	- Plant Physiology: tomatoes :tomato: and parasitic plants :rosette:
+	- Dermatology: wound healing, inflammation, autoimmune, and topical treatments of small-molecule drugs and microneedles. 
+	- Plant Physiology: tomatoes and parasitic plants
 - ⚡ Fun fact: I collect succulent Asclepiadaceae (carrion flowers) and porcelains worldwide
 
 <img src="https://github.com/junqilu/junqilu/blob/main/cover.png" 
