@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 -->
 
-## I'm a Developer and Researcher!!
+## I'm a Developer and Researcher
 - 🌱 I’m currently learning anything
-- 🔭 I’m currently working on integerating machine learning in pharmacological applications
+- 🔭 I’m currently working on integrating machine learning in pharmacological applications
 - 💬 Ask me about 
 	- Dermatology: wound healing, inflammation, autoimmune, and topical treatments of small-molecule drugs and microneedles. 
 	- Plant Physiology: tomatoes, parasitic plants, and host-parasite molecular communications. 
