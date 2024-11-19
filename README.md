@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 	- Plant Physiology: tomatoes, parasitic plants, and host-parasite molecular communications. 
 - ⚡ Fun fact: I collect succulent Asclepiadaceae (carrion flowers) and porcelains worldwide
 
-<img src="https://github.com/junqilu/junqilu/blob/main/cover.png" 
+<img src="https://github.com/junqilu/junqilu/blob/main/cover2.png" 
      align="center"
      width="2000"/>
      
