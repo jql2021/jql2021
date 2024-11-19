@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 ## I'm a Developer and Researcher
 - 🌱 I’m currently learning anything
-- 🔭 I’m currently working on integrating machine learning in pharmacological applications
-- 💬 Ask me about 
-	- Dermatology: wound healing, inflammation, autoimmune, and topical treatments of small-molecule drugs and microneedles. 
-	- Plant Physiology: tomatoes, parasitic plants, and host-parasite molecular communications. 
-- ⚡ Fun fact: I collect succulent Asclepiadaceae (carrion flowers) and porcelains worldwide
+- 🔭 I’m currently working on integrating machine learning applications into pharmacological research
+- 💬 Ask me about
+	- Cancer biology: melanoma brain metastasis, GTP metabolism
+	- Dermatology: wound healing, inflammation, autoimmune, topical treatments of small-molecule drugs and microneedles
+	- Plant Physiology: tomatoes, parasitic plants, host-parasite molecular communications
+- ⚡ Fun fact: I grow and collect peppers worldwide
 
 <img src="https://github.com/junqilu/junqilu/blob/main/short_cover.png" 
      align="center"
